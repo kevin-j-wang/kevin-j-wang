@@ -1,5 +1,3 @@
-- 👋 Hi, I'm Kevin.
-I'm a undergraduate student at the University of Toronto studying mathematics, but I am mostly interested in Machine Learning and Computer Graphics.
 
 
 <!---
